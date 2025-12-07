@@ -20,30 +20,6 @@ This project implements a robust machine learning pipeline to predict stroke ris
 - **Target**: `stroke` (0 = Healthy, 1 = Stroke)
 - **Challenge**: Severe class imbalance
 
-## Setup
-
-1. Create and activate virtual environment:
-   ```powershell
-   python -m venv .venv
-   .\.venv\Scripts\Activate.ps1
-   ```
-
-2. Install dependencies:
-   ```powershell
-   pip install -r requirements.txt
-   ```
-
-3. Launch Jupyter Notebook:
-   ```powershell
-   jupyter notebook
-   ```
-
-4. Open `stroke_prediction_full_analysis.ipynb` and run all cells
-
-## Requirements
-
-See `requirements.txt` for full list of dependencies.
-
 ## Results
 
 All visualizations are automatically saved as high-resolution PNG files (300 DPI):
@@ -56,8 +32,3 @@ All visualizations are automatically saved as high-resolution PNG files (300 DPI
 - Calibration curve
 - Feature importance
 - SHAP plots
-
-## Author
-
-UCL MSc AI4BH Module - Coursework
-
