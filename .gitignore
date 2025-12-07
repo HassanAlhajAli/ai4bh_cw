@@ -2,7 +2,8 @@
 venv/
 env/
 ENV/
-.venv
+# .venv is included in the repo (optional - uncomment next line to ignore it)
+# .venv/
 
 # Python
 __pycache__/

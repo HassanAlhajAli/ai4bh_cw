@@ -24,8 +24,8 @@ This project implements a robust machine learning pipeline to predict stroke ris
 
 1. Create and activate virtual environment:
    ```powershell
-   python -m venv venv
-   .\venv\Scripts\Activate.ps1
+   python -m venv .venv
+   .\.venv\Scripts\Activate.ps1
    ```
 
 2. Install dependencies:
