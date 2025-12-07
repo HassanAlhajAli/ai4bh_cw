@@ -46,8 +46,8 @@ Thumbs.db
 *.png
 *.jpg
 *.jpeg
-# Uncomment the line below if you want to ignore generated plots
-# *.png
+# Keep plots folder but ignore if needed (uncomment next line)
+# plots/
 
 # Data files (if large, consider using Git LFS)
 # *.csv
